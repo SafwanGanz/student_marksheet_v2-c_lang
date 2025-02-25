@@ -14,8 +14,6 @@ A simple C program to manage student marks, assign grades, sort them in descendi
 - [Usage](#usage)
 - [Code Explanation](#code-explanation)
 - [Sample Output](#sample-output)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Accepts marks for 5 students
