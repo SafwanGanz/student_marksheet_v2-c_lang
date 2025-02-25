@@ -3,7 +3,7 @@
 
 ![C Programming](https://img.shields.io/badge/Language-C-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-green.svg)
-![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-2.0-brightgreen.svg)
 
 A simple C program to manage student marks, assign grades, sort them in descending order, and search for specific marks.
 
